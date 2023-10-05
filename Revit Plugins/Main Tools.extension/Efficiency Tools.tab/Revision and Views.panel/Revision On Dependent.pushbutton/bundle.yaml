@@ -1,9 +1,0 @@
-title:  
-  en_us: Revision Cloud on Dependent Views 
-  fr_fr: Nuage de révision sur les vues dépendantes
-tooltip:
-  Finds all Revisions on dependent Views
-  
-  Outputs -> Revision Id ---- Revision Name ---- Sheet Number/Not on any sheet 
-author:
-  Avinash Verma
