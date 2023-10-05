@@ -1,0 +1,10 @@
+title:  
+  en_us: Revision Schedule 
+  fr_fr: Création d'un calendrier de révision
+tooltip:
+  Create a Revision schedule dependent or independent views dont matter.
+  Select from a list of column names for the final schedule.
+  Copy the output and save it as a .txt file.
+  Open this .txt file in excel as a data and clean the null rows.
+author:
+  Avinash Verma
