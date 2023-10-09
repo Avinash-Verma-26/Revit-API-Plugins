@@ -6,3 +6,5 @@ Collection of Revit Plugins that increase productivity and efficiency in your ev
 1. Revision on Dependent
 2. Revision Schedule
 3. Views - Dependent to Independent
+
+(Testing ssh link for macbook)
